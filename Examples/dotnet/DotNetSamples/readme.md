@@ -9,7 +9,7 @@ Foundations:
 - [103_hello_file.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/103_hello_file.js) - separate file
 - [104_add7_class.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/104_add7_class.js) - entire class instead of lambda
 - [105_add7_dll.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/105_add7_dll.js) - pre-compiled DLL
-- [106_marshal_v82cls.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/106_marshal_v82cls.js) - data from V8 to CLR
+- [106_marshal_v82clr.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/106_marshal_v82clr.js) - data from V8 to CLR
 - [107_marshal_clr2v8.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/107_marshal_clr2v8.js) - data from CLR to V8
 - [108_func.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/108_func.js) - marshal func from v8 to CLR and call node from .NET
 - [109_sync.js](https://github.com/xamarin/WebSharp/blob/master/Examples/dotnet/DotNetSamples/samples/109_sync.js) - async and sync calling conventions
